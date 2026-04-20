@@ -3,7 +3,7 @@
 Visualises the full drainage hierarchy of Bangladesh using HydroRivers stream data
 clipped to the national boundary, symbolised by Strahler order (1–9).
 
-![River Network of Bangladesh](river_network_bangladesh.png)
+![River Network of Bangladesh](BD_RIVERS.png)
 
 ---
 
